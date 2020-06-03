@@ -1,0 +1,9 @@
+  
+ <p class = "p"> Welcome to my Anime Review site :)  </p>
+ 
+<div *ngFor ="let animeobject of anime" class ="Review_main">
+    
+<app-review-title [animeChildTitle] = "animeobject" ></app-review-title> 
+<app-reviewdetail [animeChildDetail] = "animeobject"></app-reviewdetail>
+</div>
+

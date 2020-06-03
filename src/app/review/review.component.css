@@ -1,0 +1,18 @@
+ .Review_main{
+
+    border-style: outset;
+    padding-right: 2px;
+    padding-left: 2px;
+    padding-top: 3px;
+    padding-bottom:10px;
+    background-color: rgb(243, 238, 248);
+ }
+
+ .p {
+     color: rgb(3, 3, 3);
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     background-color: rgb(231, 223, 223) ;
+     font-size: larger;
+     font-style: italic;
+     font-weight: bold;
+ }
